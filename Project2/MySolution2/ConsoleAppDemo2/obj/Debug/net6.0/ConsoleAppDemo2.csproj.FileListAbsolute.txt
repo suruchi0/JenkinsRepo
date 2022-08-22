@@ -1,0 +1,15 @@
+C:\Users\ETG1\source\repos\MySolution2\ConsoleAppDemo2\bin\Debug\net6.0\ConsoleAppDemo2.exe
+C:\Users\ETG1\source\repos\MySolution2\ConsoleAppDemo2\bin\Debug\net6.0\ConsoleAppDemo2.deps.json
+C:\Users\ETG1\source\repos\MySolution2\ConsoleAppDemo2\bin\Debug\net6.0\ConsoleAppDemo2.runtimeconfig.json
+C:\Users\ETG1\source\repos\MySolution2\ConsoleAppDemo2\bin\Debug\net6.0\ConsoleAppDemo2.dll
+C:\Users\ETG1\source\repos\MySolution2\ConsoleAppDemo2\bin\Debug\net6.0\ConsoleAppDemo2.pdb
+C:\Users\ETG1\source\repos\MySolution2\ConsoleAppDemo2\obj\Debug\net6.0\ConsoleAppDemo2.csproj.AssemblyReference.cache
+C:\Users\ETG1\source\repos\MySolution2\ConsoleAppDemo2\obj\Debug\net6.0\ConsoleAppDemo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ETG1\source\repos\MySolution2\ConsoleAppDemo2\obj\Debug\net6.0\ConsoleAppDemo2.AssemblyInfoInputs.cache
+C:\Users\ETG1\source\repos\MySolution2\ConsoleAppDemo2\obj\Debug\net6.0\ConsoleAppDemo2.AssemblyInfo.cs
+C:\Users\ETG1\source\repos\MySolution2\ConsoleAppDemo2\obj\Debug\net6.0\ConsoleAppDemo2.csproj.CoreCompileInputs.cache
+C:\Users\ETG1\source\repos\MySolution2\ConsoleAppDemo2\obj\Debug\net6.0\ConsoleAppDemo2.dll
+C:\Users\ETG1\source\repos\MySolution2\ConsoleAppDemo2\obj\Debug\net6.0\refint\ConsoleAppDemo2.dll
+C:\Users\ETG1\source\repos\MySolution2\ConsoleAppDemo2\obj\Debug\net6.0\ConsoleAppDemo2.pdb
+C:\Users\ETG1\source\repos\MySolution2\ConsoleAppDemo2\obj\Debug\net6.0\ConsoleAppDemo2.genruntimeconfig.cache
+C:\Users\ETG1\source\repos\MySolution2\ConsoleAppDemo2\obj\Debug\net6.0\ref\ConsoleAppDemo2.dll
